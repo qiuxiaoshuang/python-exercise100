@@ -8,8 +8,6 @@ def xf_print(s,l):
     xf_print(s,l-1)
 
 
-
-
 s=input("输入字符串:\n")
 l=len(s)
 xf_print(s,l)
