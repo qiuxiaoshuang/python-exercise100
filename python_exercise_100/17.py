@@ -38,5 +38,3 @@ for str in strs:
     is_letter(str)
     is_blank(str)
     print("--------------------------------------------")
-
-
