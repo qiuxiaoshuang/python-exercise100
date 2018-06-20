@@ -10,6 +10,6 @@ def is_prime(n):
             return False
     return n
 
-A=range(101,200)
+A=range(1,100)
 for a in A:
     print(is_prime(a))
