@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7edaf73e-9915-4641-9751-72ebcf2ef78a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/python_exercise_100/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_exercise_100/12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_exercise_100/readchange_sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_exercise_100/readchange_sql.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,9 +14,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$32.coverage" NAME="32 Coverage Results" MODIFIED="1529034826999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$docx_read.coverage" NAME="docx_read Coverage Results" MODIFIED="1529045725619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
-    <SUITE FILE_PATH="coverage/qiuxiaoshuang1$38.coverage" NAME="38 Coverage Results" MODIFIED="1529479186178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
+    <SUITE FILE_PATH="coverage/qiuxiaoshuang1$38.coverage" NAME="38 Coverage Results" MODIFIED="1529486818124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$29.coverage" NAME="29 Coverage Results" MODIFIED="1528438603394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
-    <SUITE FILE_PATH="coverage/qiuxiaoshuang1$36.coverage" NAME="36 Coverage Results" MODIFIED="1529477747889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
+    <SUITE FILE_PATH="coverage/qiuxiaoshuang1$36.coverage" NAME="36 Coverage Results" MODIFIED="1529483440196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$17.coverage" NAME="17 Coverage Results" MODIFIED="1528192319759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$35.coverage" NAME="35 Coverage Results" MODIFIED="1529476182660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$26.coverage" NAME="26 Coverage Results" MODIFIED="1528257187665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
@@ -29,7 +29,7 @@
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$25.coverage" NAME="25 Coverage Results" MODIFIED="1528257040997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$28.coverage" NAME="28 Coverage Results" MODIFIED="1528436920341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$30.coverage" NAME="30 Coverage Results" MODIFIED="1529033288887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
-    <SUITE FILE_PATH="coverage/qiuxiaoshuang1$readchange_sql.coverage" NAME="readchange_sql Coverage Results" MODIFIED="1529473433292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
+    <SUITE FILE_PATH="coverage/qiuxiaoshuang1$readchange_sql.coverage" NAME="readchange_sql Coverage Results" MODIFIED="1529547968475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$33.coverage" NAME="33 Coverage Results" MODIFIED="1529045408466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$20.coverage" NAME="20 Coverage Results" MODIFIED="1528424379395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
     <SUITE FILE_PATH="coverage/qiuxiaoshuang1$read_excel.coverage" NAME="read_excel Coverage Results" MODIFIED="1529043796426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_exercise_100" />
@@ -41,11 +41,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="38.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="38.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_exercise_100/38.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readchange_sql.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_exercise_100/readchange_sql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="91" column="26" lean-forward="true" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="36.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_exercise_100/36.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -81,13 +99,14 @@
         <option value="$PROJECT_DIR$/python_exercise_100/33.py" />
         <option value="$PROJECT_DIR$/python_exercise_100/docx_read.py" />
         <option value="$PROJECT_DIR$/python_exercise_100/read_docx.py" />
-        <option value="$PROJECT_DIR$/python_exercise_100/readchange_sql.py" />
         <option value="$PROJECT_DIR$/python_exercise_100/34.py" />
         <option value="$PROJECT_DIR$/python_exercise_100/35.py" />
         <option value="$PROJECT_DIR$/python_exercise_100/12.py" />
         <option value="$PROJECT_DIR$/python_exercise_100/36.py" />
         <option value="$PROJECT_DIR$/python_exercise_100/37.py" />
         <option value="$PROJECT_DIR$/python_exercise_100/38.py" />
+        <option value="$PROJECT_DIR$/python_exercise_100/39.py" />
+        <option value="$PROJECT_DIR$/python_exercise_100/readchange_sql.py" />
       </list>
     </option>
   </component>
@@ -128,7 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="SearchEverywhereHistoryKey" value="termi&#9;ACTION&#9;ActivateTerminalToolWindow&#10;ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -155,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.38">
+  <component name="RunManager" selected="Python.readchange_sql">
     <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="qiuxiaoshuang1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,25 +189,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_exercise_100/12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="35" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="qiuxiaoshuang1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_exercise_100" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_exercise_100/35.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,20 +251,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="readchange_sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qiuxiaoshuang1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_exercise_100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_exercise_100/readchange_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.35" />
       <item itemvalue="Python.36" />
       <item itemvalue="Python.12" />
       <item itemvalue="Python.37" />
       <item itemvalue="Python.38" />
+      <item itemvalue="Python.readchange_sql" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.readchange_sql" />
         <item itemvalue="Python.38" />
-        <item itemvalue="Python.37" />
         <item itemvalue="Python.36" />
+        <item itemvalue="Python.37" />
         <item itemvalue="Python.12" />
-        <item itemvalue="Python.35" />
       </list>
     </recent_temporary>
   </component>
@@ -299,9 +318,9 @@
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.30852503" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32882273" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15488432" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.31393775" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.30581868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17159383" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -503,24 +522,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/pymysql/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="832" column="8" selection-start-line="832" selection-start-column="8" selection-end-line="832" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_exercise_100/read_excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="30" selection-start-line="2" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/pymysql/err.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
         </state>
       </provider>
     </entry>
@@ -545,13 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_exercise_100/readchange_sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="40" selection-start-line="40" selection-end-line="41" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -652,13 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_exercise_100/36.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_exercise_100/37.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -666,10 +657,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python_exercise_100/username.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_exercise_100/39.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="925" selection-start-line="925" selection-end-line="925" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python_exercise_100/38.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_exercise_100/36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_exercise_100/readchange_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="91" column="26" lean-forward="true" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
         </state>
       </provider>
     </entry>
